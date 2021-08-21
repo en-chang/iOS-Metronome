@@ -1,8 +1,8 @@
-# README
+# Head over to my portfolio to see a quick video demoing and explaining the project!
 
-This is the project I am most proud of but it is still in beta.
-The app is a way for musicians to create playlist for their practice sessions.
-The app will remember what BPM you last played at and your goal BPM.
-Thank you!
+https://en-chang.github.io/en-chang/#projects
 
-MAKE SURE TO RUN MetronomeWorkspace.xcworkspace
+## Description
+
+* Designed and developed an iOS application that would create a metronome playlist for musicians.
+* Utilized GetSongbpm API to search for song data and AudioKit to fully customize metronome audio.
